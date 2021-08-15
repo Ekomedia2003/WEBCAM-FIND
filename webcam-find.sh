@@ -4,7 +4,7 @@ if [[ $1 == güncelle ]];then
 	cd files
 	bash güncelleme.sh güncelle
 	exit
-fi
+
 cd files
 bash güncelleme.sh
 bash banner.sh
